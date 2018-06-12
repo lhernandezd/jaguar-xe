@@ -3,14 +3,13 @@
 
 body, html {
     font-family: 'Roboto', sans-serif; /*Font family de google fonts*/
+    background: url('../images/jaguar-xe.jpg') no-repeat center top;
+    background-size: cover;
     height: 100%;
     line-height: 1.6;
 }
 
 #wrapper {
-    background: url('../images/jaguar-xe.jpg') no-repeat center top;
-    background-size: cover;
-    height: 100%;
     padding: 40px;
 }
 #wrapper .container {
